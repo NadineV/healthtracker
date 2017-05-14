@@ -1,0 +1,14 @@
+ul 
+{
+    list-style-image: url('images/ball02.gif');
+}
+
+.bolder
+{
+    font-weight:bold;
+}
+
+.version
+{
+ vertical-align:bottom;   
+}
